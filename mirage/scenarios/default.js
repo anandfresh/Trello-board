@@ -1,6 +1,6 @@
 export default function(server) {
   server.create('card', {
-    title: 'Hello Caterpillar',
+    title: 'Programming',
     list: 'Coding'
   });
 
