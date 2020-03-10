@@ -45,6 +45,7 @@
     "ember-source": "~3.5.0",
     "ember-welcome-page": "^3.2.0",
     "embercasts-kanban-blueprint": "^1.0.0",
+    "eslint": "^6.8.0",
     "eslint-plugin-ember": "^5.2.0",
     "loader.js": "^4.7.0",
     "qunit-dom": "^0.8.0"
